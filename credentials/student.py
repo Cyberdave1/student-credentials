@@ -46,13 +46,13 @@ def deleteStudent(student_id):
 
 #getAllStudents()
 #To test the add student function
-#addStudent("Peter", "h", "Peterh@gmail.com", "2022-02-14")
-#addStudent("Kelvin", "Curry", "kelvincurry5@gmail.com", "2024-09-10" )
+#addStudent("Jason", "Jake", "jasonjake5@gmail.com", "2023-01-12")
+#addStudent("durante", "jamal", "durantejamal5@gmail.com", "2022-09-10" )
 #getAllStudents()
 
 #To test the update student function
-#updateStudentEmail(12,"jackbrown@gmail.com")
-#updateStudentEmail(6,"jaydensixers6@gmail.com")
+#updateStudentEmail(2,"stephen6547@gmail.com")
+#updateStudentEmail(6,"geegees10@gmail.com")
 #getAllStudents()
 
 #To test the delete student function
@@ -61,4 +61,5 @@ deleteStudent(12)
 getAllStudents()
 
 new.close()
+
 connectit.close()
