@@ -14,6 +14,8 @@ The program requires Python 3, PostgreSQL and psycopg2 library installed
 #How to run 
 Open student.py 
 type "python student.py" in terminal to execute
-
+#NOTE
+The application doesn't allow for duplicate emails or students
 #Demo video link
+
 https://www.loom.com/share/1ff4ec1a56ce479489aa13999066a1fa
